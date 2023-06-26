@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=test
+comment1.params=
+comment1.target=void\ datenbankErstellen()
+comment2.params=eingabe
+comment2.target=void\ tabelleErstellen(java.lang.String)
+comment3.params=connection\ text
+comment3.target=void\ insertDataIntoTable(java.sql.Connection,\ java.lang.String)
+comment4.params=connection
+comment4.target=void\ clearTable(java.sql.Connection)
+numComments=5
